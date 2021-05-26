@@ -3,10 +3,10 @@
 With exurl, you can split one url or multiple urls to many approval on patameters count , change parameter value in url to you want but change one by one and return all in list.
 
 # Overview
-The exurl python package was written with fast use in mind. It provides the following key features at present
-  - take url and change parameters value to you want, one by one
-  - take urls list and change parameters value to you want, again one by one
-  - all results will returned in list 
+The exurl python package was written with fast use in mind. It provides the following key features at present <br>
+  - take url and change parameters value to you want, one by one <br>
+  - take urls list and change parameters value to you want, again one by one <br>
+  - all results will returned in list <br>
 
 
 ## why exurl !
