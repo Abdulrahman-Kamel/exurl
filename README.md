@@ -30,7 +30,7 @@ In the following paragraphs, I am going to describe how you can get and use exur
 
 To download exurl, either fork this github repo or simply use Pypi via pip.
 ```sh
-$ pip install exurl
+$ pip3 install exurl
 ```
 
 ## Using it
